@@ -24,6 +24,7 @@ let isFileRequired = (fileName, extensionList) => {
 }
 
 let init = (initialDirectory, extensionList) => {
+    pathArr = [];
     initialDirectory = path.resolve(initialDirectory);
     getImagesPathList(initialDirectory, extensionList);
     return pathArr;

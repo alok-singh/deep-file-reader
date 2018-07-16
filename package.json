@@ -1,0 +1,29 @@
+{
+  "name": "deep-file-reader",
+  "version": "1.0.0",
+  "description": "read all file names in directory and subdirectories",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alok-singh/deep-file-reader.git"
+  },
+  "keywords": [
+    "get",
+    "all",
+    "files",
+    "names",
+    "in",
+    "directory",
+    "and",
+    "subdirectories"
+  ],
+  "author": "Alok Singh <aloksingh7131@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alok-singh/deep-file-reader/issues"
+  },
+  "homepage": "https://github.com/alok-singh/deep-file-reader#readme"
+}
